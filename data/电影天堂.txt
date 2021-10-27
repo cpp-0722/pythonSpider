@@ -1,0 +1,377 @@
+[
+    {
+        "片名": "&#3588;&#3609;&#3607;&#3619;&#3591;",
+        "产地": "泰国",
+        "类别": "恐怖",
+        "评分": "分7.0/10 from 29852 users",
+        "时长": "131 Mins",
+        "导演": "班庄&middot;比辛达拿刚",
+        "主演": "纳瑞拉&middot;库尔蒙科尔佩萨尼&middot;乌托玛邦松&middot;纳卡普Sirani YankittikanYasaka ChaisornArunee WattanaThanutphon BoonsangPakapol SrirongmuangAkkaradech RattanawongChatchawat SanveangYossawat SittiwongArnon LosiripanyaKlangchon ChuekhamSayan PhiwchanSakchai Yukhachen简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/6298/灵媒-2021_HD韩版泰语中字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "Prisoners Of The Ghostland",
+        "产地": "美国/日本",
+        "类别": "动作/惊悚/恐怖",
+        "评分": "分4.1/10 from 823 users",
+        "时长": "103 Mins",
+        "导演": "园子温",
+        "主演": "尼古拉斯&middot;凯索菲亚&middot;波多拉尼克&middot;卡萨维蒂比尔&middot;莫斯利坂口拓小川辉晃马修&middot;乔齐克Takato YonemotoNarisa SuzukiCanon NawataJai WestCharles GloverGrace SantosJeffrey RoweYurinoLorena Kot&ocirc;Shin Shimizu简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/3147/幽灵之国的囚徒-2021_HD中英双字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "兔子暴力",
+        "产地": "中国大陆",
+        "类别": "剧情/家庭/犯罪",
+        "评分": "分6.2/10 from 26911 users",
+        "时长": "106 Mins",
+        "导演": "申瑜",
+        "主演": "万李庚希黄觉潘斌龙是安柴烨周子越俞更寅方励耐安简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/3683/兔子暴力-2020_HD国语中字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "Stillwater",
+        "产地": "美国",
+        "类别": "惊悚/犯罪/剧情",
+        "评分": "分7.1/10 from 4923 users",
+        "时长": "140 Mins",
+        "导演": "汤姆&middot;麦卡锡",
+        "主演": "马特&middot;达卡米尔&middot;科坦阿比盖尔&middot;布雷斯林利鲁&middot;肖沃狄安娜&middot;杜纳甘伊迪尔&middot;阿祖格利安娜&middot;勒尼茂萨&middot;马斯克里伊莎贝尔&middot;塔纳克奈德拉&middot;阿亚迪吉尔伯特&middot;特拉尼亚威廉&middot;纳迪兰沙扎德&middot;拉蒂夫米歇尔?邦波莎拉&middot;布鲁克斯埃里克&middot;斯达克罗伯特&middot;皮特斯简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/1818/静水城-2021_BD中英双字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "新大头儿子和小头爸爸4：完美爸爸",
+        "产地": "中国大陆",
+        "类别": "动画/奇幻/冒险",
+        "评分": "分5.0/10 from 1493 users",
+        "时长": "86 Mins",
+        "导演": "何澄",
+        "主演": "董鞠萍陈怡耿晨晨陈苏王淏郏捷何子然黄炜霍小雷王金建刘洋简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/8066/新大头儿子和小头爸爸4：完美爸爸-2021_4K国语中字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "秘密访客",
+        "产地": "中国大陆",
+        "类别": "悬疑/惊悚",
+        "评分": "分5.6/10 from 104898 users",
+        "时长": "110 Mins",
+        "导演": "陈正道",
+        "主演": "郭富段奕宏张子枫许玮甯荣梓杉王圣迪吕聿来张柏嘉孔雁简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/5110/秘密访客-2021_HD国语中字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "Kate",
+        "产地": "美国",
+        "类别": "动作/惊悚/犯罪/冒险",
+        "评分": "分6.4/10 from 2293 users",
+        "时长": "107 Mins",
+        "导演": "塞德里克&middot;萨科",
+        "主演": "玛丽&middot;伊丽莎白&middot;温斯特米希尔&middot;赫伊斯曼伍迪&middot;哈里森浅野忠信艾尔西亚&middot;罗塔鲁石原贵雅阿梅利亚&middot;克劳奇国村隼玛丽&middot;亚马莫托艾娃&middot;卡约菲丽斯约恩&middot;奥布赖恩西琳娅&middot;温西里Miku Patricia MartineauUlf PilbladGemma Brooke AllenPatrick Newall简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/0047/凯特-2021_BD英语中字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "龙虎武师",
+        "产地": "中国大陆",
+        "类别": "纪录片",
+        "评分": "分8.3/10 from 4672 users",
+        "时长": "93 Mins",
+        "导演": "魏君子",
+        "主演": "徐袁和平洪金宝成龙甄子丹程小东刘伟强元华元秋钱小豪钱嘉乐曾志伟吴思远唐季礼刘家荣梁小龙董玮谷轩昭元德林迪安小侯余袁稳元武熊欣欣徐小明陈会毅李晖梁少松钟发杨盼盼黄家良花仔源刘允徐忠信黎强权徐二牛火星吴育枢李海生简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/4379/龙虎武师-2020_HD国语中字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "Malignant",
+        "产地": "美国/中国大陆",
+        "类别": "恐怖",
+        "评分": "分7.1/10 from 9377 users",
+        "时长": "112 Mins",
+        "导演": "温子仁",
+        "主演": "安娜贝拉&middot;沃丽麦蒂&middot;哈森吴宇卫米歇尔&middot;沃特麦肯娜&middot;格瑞丝珍&middot;路易莎&middot;凯利苏珊娜&middot;汤姆森杰克&middot;阿贝尔杰奎琳&middot;麦根斯克里斯蒂安&middot;克莱门松梅塞德斯&middot;科隆英格丽&middot;比苏乔恩&middot;李&middot;布罗迪保拉&middot;马绍尔佐伊&middot;贝尔娜塔莉&middot;萨福兰迈克&middot;门德兹雷&middot;蔡斯帕翠西娅&middot;维拉奎兹麦迪逊&middot;沃尔夫安迪&middot;比恩帕特里克&middot;考克斯蕾妮&middot;戴蒙德玛丽娜&middot;马泽帕基诺&middot;蒙特斯诺斯Ruben PlaAmir AboulEla简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/5222/致命感应-2021_BD中英双字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "灰姑娘",
+        "产地": "英国/美国",
+        "类别": "喜剧/爱情/歌舞/奇幻",
+        "评分": "分5.3/10 from 1819 users",
+        "时长": "113 Mins",
+        "导演": "凯&middot;加农",
+        "主演": "卡米拉&middot;卡贝尼古拉斯&middot;加利齐纳伊迪娜&middot;门泽尔皮尔斯&middot;布鲁斯南明妮&middot;德里弗比利&middot;波特麦迪&middot;贝里欧夏洛特&middot;斯宾塞詹姆斯&middot;柯登Tallulah GreiveJames Acaster罗梅什&middot;兰加纳坦Rob Beckett本&middot;贝利&middot;史密斯弗拉&middot;菲Beverley KnightNatasha Patel妮基塔&middot;查达哈约翰&middot;艾伦&middot;罗伯茨Danny SalomonLuke Latchman简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/4215/灰姑娘-2021_BD英语中字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "Escape Room 2",
+        "产地": "美国/南非",
+        "类别": "悬疑/惊悚",
+        "评分": "分7.0/10 from 5671 users",
+        "时长": "86 Mins",
+        "导演": "亚当&middot;罗比特尔",
+        "主演": "泰勒&middot;拉塞洛根&middot;米勒詹姆斯&middot;弗莱恩黛博拉&middot;安沃尔托马斯&middot;康奎尔霍兰&middot;罗登茵蒂娅&middot;摩尔卡利托&middot;奥利维罗杰米-李&middot;蒙尼杰&middot;埃利斯泰勒&middot;莱伯恩尼克&middot;多达尼约里克&middot;范&middot;韦杰宁根伊莎贝拉&middot;弗尔曼杰米斯&middot;巴特勒杰伊&middot;欧文阿玛莉&middot;沃德蕾妮&middot;戴蒙德埃文&middot;亨斯特坦娅&middot;范&middot;格拉恩Matt EsofScott CokerWayne HarrisonLucy Newman-Williams简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/3977/密室逃生2-2021_HD中英双字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "白蛇2：青蛇劫起",
+        "产地": "中国大陆",
+        "类别": "动画/奇幻/冒险",
+        "评分": "分7.2/10 from 199219 users",
+        "时长": "133 Mins",
+        "导演": "黄家康",
+        "主演": "唐小歪歪魏超赵铭洲郑小璞马程宋旭晨邱秋张凯徐佳琦关帅张碧玉张喆杨天翔宝木中阳林强简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/1731/白蛇2：青蛇劫起-2021_HD国语中字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "刺杀小说家",
+        "产地": "中国大陆",
+        "类别": "动作/奇幻/冒险",
+        "评分": "分7.0/10 from 379568 users",
+        "时长": "130 Mins",
+        "导演": "路阳",
+        "主演": "雷佳杨幂董子健于和伟郭京飞佟丽娅董洁王圣迪杨轶简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/0411/刺杀小说家-2021_BD国粤双语中字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "Reminiscence",
+        "产地": "美国",
+        "类别": "爱情/科幻/悬疑/惊悚",
+        "评分": "分6.2/10 from 3298 users",
+        "时长": "116 Mins",
+        "导演": "丽莎&middot;乔伊",
+        "主演": "休&middot;杰克丽贝卡&middot;弗格森坦迪&middot;牛顿克利夫&middot;柯蒂斯玛丽娜&middot;德&middot;塔维拉吴彦祖莫让&middot;阿里亚布莱特&middot;卡伦娜塔丽&middot;马丁内斯安吉拉&middot;萨拉弗安山姆麦地那朴云龙韩&middot;索托雷&middot;埃尔南德斯安德鲁&middot;马希特妮可&middot;帕克朱尔斯&middot;哈特利伊万&middot;姆巴科普杰夫&middot;布洛克顿迈克尔&middot;帕帕约翰Laci Broussard肖恩&middot;卡特&middot;彼得森托马斯&middot;弗兰西斯&middot;墨菲让&middot;克劳德&middot;卢耶特瑞&middot;韦伯奥图姆&middot;戴尔迈尔斯&middot;哈姆帕斯戈登&middot;德克海默蒂莫西&middot;辛里奇斯道恩&middot;林恩托尼&middot;查普曼&middot;斯蒂尔哈维尔&middot;莫利纳诺里奥&middot;西村简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/6632/追忆迷局-2021_BD中英双字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "Don&#39;t Breathe 2",
+        "产地": "美国/塞尔维亚",
+        "类别": "惊悚/恐怖",
+        "评分": "分7.1/10 from 1372 users",
+        "时长": "99 Mins",
+        "导演": "罗多&middot;赛亚格斯",
+        "主演": "史蒂芬&middot;布兰登&middot;萨克斯顿马德琳&middot;格雷斯罗奇&middot;威廉姆斯斯蒂芬妮&middot;阿西拉鲍比&middot;斯科菲尔德戴安娜&middot;巴尼科娃亚当&middot;扬克里斯蒂安&middot;泽吉亚罗恩&middot;罗格尔简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/3194/屏住呼吸2-2021_BD英语中字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "F9: The Fast Saga",
+        "产地": "美国",
+        "类别": "动作/犯罪",
+        "评分": "分5.5/10 from 129447 users",
+        "时长": "143 Mins",
+        "导演": "林诣彬",
+        "主演": "范&middot;迪塞约翰&middot;塞纳米歇尔&middot;罗德里格兹乔丹娜&middot;布鲁斯特泰瑞斯&middot;吉布森卢达克里斯查理兹&middot;塞隆海伦&middot;米伦姜成镐娜塔莉&middot;伊曼纽尔迈克尔&middot;鲁克卢卡斯&middot;布莱克杜俊纬卡迪&middot;B吉姆&middot;帕拉克芬恩&middot;科尔安珀&middot;西耶娜马丁&middot;福特艾拉&middot;沃克泽井杏奈图厄&middot;埃尔斯特德&middot;拉斯姆森米拉吉&middot;格尔比克吉米&middot;斯达莱克斯&middot;艾尔温尼&middot;贝内特马克&middot;克雷尼克杰森&middot;斯坦森简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/0978/速度与激情9-2021_BD国英双语中字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "&#44340;&#44592;&#47592;&#49664;",
+        "产地": "韩国",
+        "类别": "惊悚/恐怖",
+        "评分": "分6.8/10 from 15980 users",
+        "时长": "107 Mins",
+        "导演": "赵巴伦",
+        "主演": "盛金弘波金宝罗金在华朴素珍徐贤宇简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/8421/怪奇宅-2021_BD韩语中字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "はたらく細胞!! 最強の敵、再び。体の中は&ldquo;腸&rdquo;大騒ぎ！",
+        "产地": "日本",
+        "类别": "动画/喜剧",
+        "评分": "分6.9/10 from 7194 users",
+        "时长": "111 Mins",
+        "导演": "小仓宏文",
+        "主演": "花泽香前野智昭小野大辅井上喜久子长绳麻理亚早见沙织行成桃姬小林裕介吉田有里高桥李依藤原夏海久保由利香石田彰能登麻美子简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/0110/工作细胞：细胞大作战-2020_BD日语中字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "Raya and The Last Dragon",
+        "产地": "美国",
+        "类别": "动画/奇幻/冒险",
+        "评分": "分7.5/10 from 17898 users",
+        "时长": "108 Mins",
+        "导演": "唐&middot;霍尔",
+        "主演": "凯莉&middot;玛丽&middot;奥卡菲娜嘉玛&middot;陈金大贤吴珊卓本尼迪克特&middot;王伊扎克&middot;王塔莉娅&middot;陈艾伦&middot;图代克迪辰&middot;拉克曼帕蒂&middot;哈里森姜成镐罗斯&middot;巴特勒乔娜&middot;肖宋静秀弗朗克西斯&middot;周保罗&middot;扬丽莎&middot;德尔&middot;门多塔妮亚&middot;古纳迪珍妮&middot;关卢锡安&middot;佩雷兹文森特&middot;罗德里格兹三世JB TadenaGordon IpJon Park简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/6719/寻龙传说-2021_BD国英双语中英双字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "The Witcher: Nightmare of the Wolf",
+        "产地": "美国",
+        "类别": "动画/动作/奇幻",
+        "评分": "分8.1/10 from 1857 users",
+        "时长": "84 Mins",
+        "导演": "Kwang Il Han",
+        "主演": "西奥&middot;詹姆格拉汉姆&middot;麦克泰维什玛丽&middot;麦克唐纳劳拉&middot;普沃简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/1495/猎魔人：狼之噩梦-2021_BD中英双字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "小伟",
+        "产地": "中国大陆",
+        "类别": "剧情/家庭",
+        "评分": "分7.6/10 from 28720 users",
+        "时长": "109 Mins",
+        "导演": "黄梓",
+        "主演": "彭杏薛立贤高翰文郭尔君钟雨伦顾定轩简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/3629/小伟-2019_BD国语中字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "测谎人",
+        "产地": "中国大陆",
+        "类别": "喜剧/爱情",
+        "评分": "分2.7/10 from 7748 users",
+        "时长": "92 Mins",
+        "导演": "杨沅翰",
+        "主演": "马文章梁超于洋马精武张双利游本昌杨新鸣卜钰于莎莎安维田昊简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/7880/测谎人-2021_HD国语中字V2.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "西游记之再世妖王",
+        "产地": "中国大陆",
+        "类别": "动画/动作/奇幻",
+        "评分": "分5.4/10 from 10215 users",
+        "时长": "96 Mins",
+        "导演": "王云飞",
+        "主演": "边张磊蔡海婷苏尚卿张赫林强刘思岑王晨光宝木中阳章斌常进图特哈蒙张遥函白雪岑邱秋常文涛李嘉祥简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/2971/西游记之再世妖王-2021_HD国语中字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "安妮特",
+        "产地": "法国/墨西哥/美国/瑞士/比利时/日本/德国",
+        "类别": "爱情/歌舞/剧情",
+        "评分": "分7.2/10 from 2641 users",
+        "时长": "141 Mins",
+        "导演": "莱奥&middot;卡拉克斯",
+        "主演": "亚当&middot;德赖玛丽昂&middot;歌迪亚西蒙&middot;赫尔伯格德温&middot;麦克道维尔罗恩&middot;梅尔罗素&middot;梅尔娜塔莉&middot;杰克逊&middot;门多萨水原希子诺米&middot;沙伦斯古馆宽治福岛莉拉伊娃&middot;范&middot;德&middot;古奇特Natalia LafourcadeWim OpbrouckElla Leyers亚矢乃尼诺&middot;波尔齐奥克里斯蒂安&middot;斯基宾斯基Kevin Van DoorslaerLauren EvansCindy AlmouzniJulia BullockChristiane TchouhanFranziska GrohmannDanielle WithersRachel MulowayiIman EuropeSinay BavurheClaron McFadden简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/7346/安妮特-2021_BD英语中字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    },
+    {
+        "片名": "Cruella",
+        "产地": "美国",
+        "类别": "喜剧/犯罪",
+        "评分": "分7.1/10 from 2494 users",
+        "时长": "134 Mins",
+        "导演": "克雷格&middot;吉勒斯佩",
+        "主演": "艾玛&middot;斯艾玛&middot;汤普森马克&middot;斯特朗保罗&middot;沃尔特&middot;豪泽艾米丽&middot;比查姆乔尔&middot;弗莱柯尔比&middot;豪威尔-巴普蒂斯特詹米&middot;德米特鲁吉安尼&middot;卡尔切蒂Michelle Greenidge约翰&middot;麦克雷Tony McCarthyChlo&eacute; Booyens安部春香尼亚姆&middot;林奇蒂珀&middot;塞弗特&middot;克利夫兰阿图尔&middot;夏尔马艾薇&middot;维克里斯&middot;雷曼马汀&middot;麦格约翰&middot;艾伦&middot;罗伯茨杰奎琳&middot;拉姆娜莱恩贾格&middot;帕特尔妮科尔&middot;亨布拉贝恩&middot;科拉科尼克&middot;欧文福特简介",
+        "本站下载地址": [
+            "\"jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/5175/黑白魔女库伊拉-2021_BD国英双语特效中英双字.mp4\""
+        ],
+        "迅雷下载地址": [
+            "\"https://www.dy2018.com/i/20070319/12.html\""
+        ]
+    }
+]
